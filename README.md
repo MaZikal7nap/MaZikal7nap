@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Kamal Bisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt ="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3_WCcdekI-gkv6aNFL2JGQ&ust=1697801894419000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj_86aEgoIDFQAAAAAdAAAAABAI">
+<img align="right" alt ="coding" width="400" src="https://images.app.goo.gl/sFinguZkfshm9ZuY7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinkamal-wq&label=Profile%20views&color=0e75b6&style=flat" alt="nitinkamal-wq" /> </p>
 
