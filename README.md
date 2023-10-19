@@ -3,7 +3,7 @@
 
 <img align="right" alt ="coding" width="400" src="https://images.app.goo.gl/sFinguZkfshm9ZuY7">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinkamal-wq&label=Profile%20views&color=0e75b6&style=flat" alt="nitinkamal-wq" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU"/> </p>
 
 - 🌱 I’m currently learning **C++ language**
 
