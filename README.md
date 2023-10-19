@@ -1,4 +1,4 @@
-![logo](https://github.com/nitinkamal-wq/nitinkamal-wq/blob/main/bn.png)
+![logo](https://github.com/nitinkamal-wq/nitinkamal-wq/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Nitin Kamal Bisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
