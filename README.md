@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nitin-kamal-bisht-1395b7230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-kamal-bisht-1395b7230" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nitin_kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin_kamal" height="30" width="40" /></a>
+<a href="https://t.me/MaGicaL7Nap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
