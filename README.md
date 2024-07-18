@@ -1,6 +1,6 @@
 <!--![logo](https://github.com/MaZikal7nap/MaZikal7nap/blob/main/banner.png)-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MaZikal%207nap&fontSize=50&animation=fadeIn&fontAlignY=35&descAlignY=45" alt="Magic"></img>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MAZIC%20&fontSize=50&animation=fadeIn&fontAlignY=35&descAlignY=45" alt="Magic"></img>
 </p>
 <h1 align="center">Hi 👋, I'm <i>NikhiL</i></h1>
 <h3 align="center">A passionate frontend developer</h3>
