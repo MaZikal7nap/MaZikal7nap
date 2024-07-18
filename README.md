@@ -1,4 +1,7 @@
-![logo](https://github.com/MaZikal7nap/MaZikal7nap/blob/main/banner.png)
+<!--![logo](https://github.com/MaZikal7nap/MaZikal7nap/blob/main/banner.png)-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MaZikal%207nap&fontSize=50&animation=fadeIn&fontAlignY=35&descAlignY=45" alt="Magic"></img>
+</p>
 <h1 align="center">Hi 👋, I'm <i>NikhiL</i></h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
