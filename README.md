@@ -32,7 +32,7 @@
   />
 </p>
 
-- 🌱 I’m CurrenTly LeaRning **React Js.**
+- 🌱 I’m CurrenTly LeaRning **πThon**
 - ⚡ FuN FacT **- Thanks for checking me out, even if you didn't mean to :)**
 <br>
 
