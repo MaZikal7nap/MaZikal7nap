@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Heyyyy❗+iT's+MaZik🌟🎩✨❗...;<---------A+Passionate--------->;FronTenD+🌐+DeVeLoPeR;<------Also+LoVe+Gaming------>;*******_AnD+ModdinG_*******" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Heyyyy❗+iT's+MaZik🌟🎩✨❗...;A+FronTenD+🌐+DeVeLoPeR;<------Also+LoVe+Gaming------>;<-----AnD+ModdinG---->" alt="Typing SVG" />
 </p>
 <p align="center">
   <picture>
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-<summary> <h4> Don'T Click Here To Track Me On Spotify 😄</h4> </summary>
+<summary> <h4> Don'T Click Here To Catch Me On Spotify 😄</h4> </summary>
 
 <h3 align="center"><u>🎵 My SpoTify PLayLisT</u></h3>&emsp;&emsp;
 <p align="center">
