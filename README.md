@@ -38,10 +38,10 @@
 
 <h3 align="left"> ♥ Connect WiTh Me :</h3>&emsp;
 
-<a target="_blank" href="mailto:nikhilbisht707@gmail.com"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=nikhilbisht707@gmail.com&size=square" alt="Email" style="width: 90px; height: 90px; margin-right: 10px;"></a>&emsp;
-<a target="_blank" href="https://linkedin.com/in/nitin-kamal-bisht-1395b7230"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@nitin-kamal-bisht-1395b7230&size=square" alt="LinkedIn" style="width: 90px; height: 90px;"></a>&emsp;
-<a href="https://www.youtube.com/@Magic_z7" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Magic_z7&subtitle=@Magic_z7&size=square" alt="YouTube" style="width: 90px; height: 90px; margin-right: 10px;"></a>&emsp;
-<a href="https://t.me/MaGicaL7Nap" target="_blank"><img src="https://www.iconsdb.com/icons/preview/red/telegram-3-xxl.png" alt="Telegram" style="width: 90px; height: 90px; margin-right: 10px;"></a>
+<a target="_blank" href="mailto:nikhilbisht707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="width: 100px; height: 50px;"></a>&emsp;
+<a target="_blank" href="https://linkedin.com/in/nitin-kamal-bisht-1395b7230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 200px; height: =90px;"></a>&emsp;
+<a href="https://www.youtube.com/@Magic_z7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="width: 90px; height: 50px; margin-right: 10px;"></a>&emsp;
+<a href="https://t.me/MaGicaL7Nap" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 90px; height: 50px; margin-right: 10px;"></a>
 <br>
 
 <br><h3 align="left"> ♠ Languages And Tools :</h3>&emsp;
