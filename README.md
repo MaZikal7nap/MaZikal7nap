@@ -38,11 +38,11 @@
 
 <h3 align="left"> ♥ Connect With Me :</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <a target="_blank" href="mailto:nikhilbisht707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="width: 110px; height: 50px;"></a>&emsp;
-  <a target="_blank" href="https://linkedin.com/in/nitin-kamal-bisht-1395b7230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 180px; height: 40px;"></a>&emsp;
-  <a href="https://www.youtube.com/@Magic_z7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="width: 110px; height: 50px;"></a>
-  <a href="https://t.me/MaGicaL7Nap" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="width: 110px; height: 50px;"></a>
+<div style="display: flex; flex-wrap: wrap; gap: 1px; align-items: center;">
+  <a target="_blank" href="mailto:nikhilbisht707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&emsp;
+  <a target="_blank" href="https://linkedin.com/in/nitin-kamal-bisht-1395b7230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&emsp;
+  <a href="https://www.youtube.com/@Magic_z7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://t.me/MaGicaL7Nap" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </div>
 
 <br><h3 align="left"> ♠ Languages And Tools :</h3>&emsp;
