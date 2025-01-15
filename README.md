@@ -32,7 +32,7 @@
   />
 </p>
 
-- 🌱 I’m CurrenTly LeaRning **πThon**
+- 🌱 I’m CurrenTly LeaRning **React.Js**<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="30">
 - ⚡ FuN FacT **- Thanks for checking me out, even if you didn't mean to :)**
 <br>
 
