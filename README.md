@@ -57,7 +57,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&emsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&emsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&emsp;
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="40">&emsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&emsp;
 
 <details>
   <summary>
