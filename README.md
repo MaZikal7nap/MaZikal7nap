@@ -27,16 +27,16 @@
   <img 
     src="https://komarev.com/ghpvc/?username=MaZikal7nap&label=Profile%20views&color=0e75b6&style=flat" 
     alt="MaZikal7nap" 
-    width="210" 
+    width="195" 
     height="auto" 
   />
 </p>
 
-- 🌱 I’m CurrenTly LeaRning **React.Js**<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="30">
-- ⚡ FuN FacT **- Thanks 4R Checking Me Out, Even if You Didn't Mean To :)**
+- 🌱 I’m CurrenTly LeaRning **- React.Js**<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="30">
+- 😉 FuN FacT **- Thanks 4R Checking Me Out, Even if You Didn't Mean To :)**
 <br>
 
-<h3 align="left"> ♥ Connect With Me :</h3>
+<h3 align="left"> ♥️ &emsp;Connect With Me :</h3>
 
 <table>
   <tr>
@@ -59,13 +59,13 @@
     </td>
     <td align="center">
       <a href="https://t.me/MaGicaL7Nap" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" alt="Telegram">
+        <img src="https://img.icons8.com/?size=100&id=83f77KNrbPyR&format=png&color=000000" alt="Telegram">
       </a>
     </td>
   </tr>
 </table>
 
-<br><h3 align="left"> ♠ Languages And Tools :</h3>&emsp;
+<br><h3 align="left"> ⚡&emsp;Languages And Tools :</h3>&emsp;
 
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -149,11 +149,9 @@
       </tr>
     </tbody>
   </table>
-</div>
+</div><br><br>
 
-<details>
-  <summary>
-<h3> Click Here FoR My StAts ( CuZ whY NoT ) : </h3> </summary>
+<h3> 🌟&emsp;My Stats ( CuZ whY NoT ) : </h3> <br>
   <div>
     <p>
       <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=MaZikal7nap&&theme=radical" alt="Github Streak">
@@ -161,18 +159,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaZikal7nap&theme=radical" alt="Top Languages">
   </div>
   
-### ♦ AcTiViTy GRAPH --->
+### ♦️&emsp;AcTiViTy GRAPH --->
 &emsp;
 [![MaZiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaZikal7nap&bg_color=1d1b1b&color=67f4fe&line=04ff00&point=df03fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)&emsp;
-</details>
-
-<details>
-<summary> <h4> Don'T Click Here To Catch Me On Spotify 😄</h4> </summary>
-
-<h3 align="center"><u>🎵 My SpoTify PLayLisT</u></h3>&emsp;&emsp;
-<p align="center">
-<a href="https://open.spotify.com/playlist/3TLz0QqQrU0ryMXDNdj5y8?si=0d2eac99d440424f" target="_blank"><img src="https://github.com/MaZikal7nap/MaZikal7nap/blob/main/spotify.png" width = "200" height ="200"></a></p>&emsp;
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=lqlwpwp3t3occ87ikxg4ys6cc">
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=lqlwpwp3t3occ87ikxg4ys6cc" alt="Data Card for Spotify">
-</a>
-</details>
