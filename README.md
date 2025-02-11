@@ -27,7 +27,7 @@
   <img 
     src="https://komarev.com/ghpvc/?username=MaZikal7nap&label=Profile%20views&color=0e75b6&style=flat" 
     alt="MaZikal7nap" 
-    width="150" 
+    width="210" 
     height="auto" 
   />
 </p>
@@ -42,22 +42,24 @@
   <tr>
     <td align="center">
       <a href="mailto:nikhilbisht707@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        <img src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="Gmail">
       </a>
     </td>
     <td align="center">
       <a href="https://linkedin.com/in/nitin-kamal-bisht-1395b7230" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.icons8.com/?size=100&id=TOYavqttjELT&format=png&color=000000" alt="LinkedIn">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.youtube.com/@Magic_z7" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+        <img src="https://img.icons8.com/?size=100&id=0PaFy1V8I5DO&format=png&color=000000" alt="YouTube">
       </a>
     </td>
     <td align="center">
       <a href="https://t.me/MaGicaL7Nap" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+        <img src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" alt="Telegram">
       </a>
     </td>
   </tr>
