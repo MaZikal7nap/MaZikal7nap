@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Heyyyy❗+iT's+MaZik🌟🎩✨❗...;A+FronTenD+🌐+DeVeLoPeR;<------Also+LoVe+Gaming------>;<-----AnD+ModdinG---->" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <picture>
     <source
@@ -20,7 +21,7 @@
       src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
     />
   </picture>
-</p><br><br>
+</p>
 
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 <p align="left">
@@ -36,7 +37,7 @@
 - 😉 FuN FacT **- Thanks 4R Checking Me Out, Even if You Didn't Mean To :)**
 <br>
 
-<h3 align="left"> ♥️ &emsp;Connect With Me :</h3>
+<h3 align="left"> ♥️ &emsp;Connect With Me&emsp;:</h3>
 
 <table>
   <tr>
@@ -65,7 +66,7 @@
   </tr>
 </table>
 
-<br><h3 align="left"> ⚡&emsp;Languages And Tools :</h3>&emsp;
+<br><h3 align="left"> ⚡&emsp;Languages And Tools&emsp;:</h3>&emsp;
 
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -151,7 +152,7 @@
   </table>
 </div><br><br>
 
-<h3> 🌟&emsp;My Stats ( CuZ whY NoT ) : </h3> <br>
+<h3> 🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3> <br>
   <div>
     <p>
       <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=MaZikal7nap&&theme=radical" alt="Github Streak">
