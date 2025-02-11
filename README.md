@@ -38,26 +38,116 @@
 
 <h3 align="left"> ♥ Connect With Me :</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <a target="_blank" href="mailto:nikhilbisht707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&emsp;
-  <a target="_blank" href="https://linkedin.com/in/nitin-kamal-bisht-1395b7230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&emsp;
-  <a href="https://www.youtube.com/@Magic_z7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>&emsp;
-  <a href="https://t.me/MaGicaL7Nap" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:nikhilbisht707@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/nitin-kamal-bisht-1395b7230" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@Magic_z7" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/MaGicaL7Nap" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><h3 align="left"> ♠ Languages And Tools :</h3>&emsp;
 
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&emsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&emsp;
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&emsp;
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&emsp;
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)&emsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white")&emsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&emsp;
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&emsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&emsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&emsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" width="100" height="30">&emsp;
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="5" align="center" style="color: white;">Languages</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+            <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+          </a>
+          <br>HTML
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+            <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+          </a>
+          <br>CSS
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript"/>
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://reactjs.org/" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
+          </a>
+          <br>React.js
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://getbootstrap.com/" style="color: white;">
+            <img src="https://img.icons8.com/?size=100&id=ZMc42tPbG32H&format=png&color=000000" width="50" height="50" alt="Bootstrap"/>
+          </a>
+          <br>Bootstrap
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="border: none;">
+          <a href="https://tailwindcss.com/" style="color: white;">
+            <img src="https://img.icons8.com/?size=100&id=FnnFuAIw4e8j&format=png&color=000000" width="50" height="50" alt="Tailwind CSS"/>
+          </a>
+          <br>Tailwind CSS
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/><br>Git
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://img.icons8.com/?size=100&id=lkh3AbJLmFpp&format=png&color=000000" width="50" height="50" alt="GitHub"/><br>GitHub
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://img.icons8.com/?size=100&id=uh8SYqSly6Cc&format=png&color=000000" width="50" height="50" alt="C"/><br>C
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java"/><br>Core Java
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="2" align="center" style="color: white;">Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" width="50" height="50" alt="Visual Studio Code"/><br>Visual Studio Code
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <details>
   <summary>
