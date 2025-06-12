@@ -42,12 +42,12 @@
 <table>
   <tr>
     <td align="center">
-      <a href="mailto:nikhilbisht707@gmail.com" target="_blank">
+      <a href="mailto:" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="Gmail">
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/nitin-kamal-bisht-1395b7230" target="_blank">
+      <a href="" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=TOYavqttjELT&format=png&color=000000" alt="LinkedIn">
       </a>
     </td>
