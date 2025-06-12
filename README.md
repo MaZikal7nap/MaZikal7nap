@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MAZ❗K&fontSize=50&animation=fadeIn&fontAlignY=35&descAlignY=45" alt="Magic"></img>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MAG❗K&fontSize=50&animation=fadeIn&fontAlignY=35&descAlignY=45" alt="Magic"></img>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Heyyyy❗+iT's+MaZik🌟🎩✨❗...;A+FronTenD+🌐+DeVeLoPeR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Heyyyy❗+iT's+MaGik🌟🎩✨❗...;A+FronTenD+🌐+DeVeLoPeR" alt="Typing SVG" />
 </p>
 
 <p align="center">
