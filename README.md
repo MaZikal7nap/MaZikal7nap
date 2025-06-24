@@ -59,7 +59,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="t.me/MaGikaL7Nap" target="_blank">
+      <a href="https://t.me/MaGikaL7Nap" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=83f77KNrbPyR&format=png&color=000000" alt="Telegram">
       </a>
     </td>
