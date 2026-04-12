@@ -47,8 +47,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=TOYavqttjELT&format=png&color=000000" alt="i_don't_use_LinkedIn">
+      <a href="https://www.linkedin.com/in/nitin-bisht-qa" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=TOYavqttjELT&format=png&color=000000" alt="LinkedIn">
       </a>
     </td>
   </tr>
