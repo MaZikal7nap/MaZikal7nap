@@ -23,6 +23,10 @@
   </picture>
 </p>
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/f725bdd6-3b8c-4f3e-ab7d-8f0d74dd2147" controls width="600"></video>
+</p>
+
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 <p align="left">
   <img 
@@ -159,7 +163,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=MaZikal7nap&show_icons=true&theme=radical" alt="Github Stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaZikal7nap&theme=radical" alt="Top Languages">
   </div>
-  
+
 ### ♦️&emsp;AcTiViTy GRAPH --->
 &emsp;
 [![MaZiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaZikal7nap&bg_color=1d1b1b&color=67f4fe&line=04ff00&point=df03fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)&emsp;
