@@ -72,7 +72,7 @@
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
       <tr>
-        <th colspan="5" align="center" style="color: white;">Languages</th>
+        <th colspan="5" align="center" style="color: white;">LANGUAGES</th>
       </tr>
     </thead>
     <tbody>
@@ -136,7 +136,7 @@
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; min-width: 400px;">
     <thead>
       <tr>
-        <th colspan="4" style="color: white; text-align: center; padding: 12px;">Tools</th>
+        <th colspan="4" style="color: white; text-align: center; padding: 12px;">TOOLS</th>
       </tr>
     </thead>
     <tbody>
