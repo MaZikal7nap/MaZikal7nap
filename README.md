@@ -148,7 +148,7 @@
           <img src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
         </td>
          <td align="center" style="border: none;">
-          <img src="http://www.w3.org/2000/svg" width="50" height="50" alt="Azure"/><br>ChatGPT
+          <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg"/><br>Azure
         </td>
       </tr>
     </tbody>
