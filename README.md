@@ -23,6 +23,15 @@
   </picture>
 </p>
 
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=MaZikal7nap&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="MaZikal7nap" 
+    width="195" 
+    height="auto" 
+  />
+</p>
+
 - 🌱 CurrenTly LeaRning **API Testing**<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="30">
 - 😉 FuN FacT **- Thanks 4R Checking Me Out, Even if You Didn't Mean To :)**
 <br>
@@ -60,9 +69,9 @@
         </tr>
       </table>
     </td>
-    <!-- Video on the right -->
+    <!-- GIF on the right -->
     <td align="center" valign="middle">
-      <video src="https://github.com/MaZikal7nap/MaZikal7nap/blob/main/Night.gif"></video>
+      <img src="https://raw.githubusercontent.com/MaZikal7nap/MaZikal7nap/main/Night.gif" width="280" height="160" alt="Night GIF"/>
     </td>
   </tr>
 </table>
