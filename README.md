@@ -33,7 +33,7 @@
   />
 </p>
 
-- 🌱 CurrenTly LeaRning **API Testing**<img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="React" width="40" height="30">
+- 🌱 CurrenTly LeaRning **API Testing**<img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40" height="40">
 - 😉 FuN FacT **- Thanks 4R Checking Me Out, Even if You Didn't Mean To :)**
 <br>
 
