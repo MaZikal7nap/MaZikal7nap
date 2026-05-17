@@ -23,18 +23,6 @@
   </picture>
 </p>
 
-<p align="right">
-  <video src="https://github.com/user-attachments/assets/f725bdd6-3b8c-4f3e-ab7d-8f0d74dd2147" controls width="400" height="225"></video>
-</p>
-<p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=MaZikal7nap&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="MaZikal7nap" 
-    width="195" 
-    height="auto" 
-  />
-</p>
-
 - 🌱 CurrenTly LeaRning **API Testing**<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="30">
 - 😉 FuN FacT **- Thanks 4R Checking Me Out, Even if You Didn't Mean To :)**
 <br>
