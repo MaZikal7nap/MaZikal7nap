@@ -93,19 +93,19 @@
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript"/>
           </a>
-          <br>JavaScript
+          <br>JAVASCRIPT
         </td>
         <td align="center" style="border: none;">
           <a href="https://reactjs.org/" style="color: white;">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
           </a>
-          <br>React.js
+          <br>REACT.JS
         </td>
         <td align="center" style="border: none;">
           <a href="https://getbootstrap.com/" style="color: white;">
             <img src="https://img.icons8.com/?size=100&id=ZMc42tPbG32H&format=png&color=000000" width="50" height="50" alt="Bootstrap"/>
           </a>
-          <br>Bootstrap
+          <br>BOOTSTRAP
         </td>
       </tr>
       <tr>
@@ -113,19 +113,19 @@
           <a href="https://tailwindcss.com/" style="color: white;">
             <img src="https://img.icons8.com/?size=100&id=FnnFuAIw4e8j&format=png&color=000000" width="50" height="50" alt="Tailwind CSS"/>
           </a>
-          <br>Tailwind CSS
+          <br>TAILWIND CSS
         </td>
         <td align="center" style="border: none;">
           <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/><br>Git
         </td>
         <td align="center" style="border: none;">
-          <img src="https://img.icons8.com/?size=100&id=lkh3AbJLmFpp&format=png&color=000000" width="50" height="50" alt="GitHub"/><br>GitHub
+          <img src="https://img.icons8.com/?size=100&id=lkh3AbJLmFpp&format=png&color=000000" width="50" height="50" alt="GitHub"/><br>GITHUB
         </td>
         <td align="center" style="border: none;">
           <img src="https://img.icons8.com/?size=100&id=uh8SYqSly6Cc&format=png&color=000000" width="50" height="50" alt="C"/><br>C
         </td>
         <td align="center" style="border: none;">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java"/><br>Core Java
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java"/><br>CORE JAVA
         </td>
       </tr>
     </tbody>
