@@ -62,7 +62,7 @@
     </td>
     <!-- Video on the right -->
     <td align="center" valign="middle">
-      <video src="https://github.com/user-attachments/assets/f725bdd6-3b8c-4f3e-ab7d-8f0d74dd2147" controls width="280" height="160"></video>
+      <video src="https://github.com/MaZikal7nap/MaZikal7nap/blob/main/Night.gif"></video>
     </td>
   </tr>
 </table>
