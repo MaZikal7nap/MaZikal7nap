@@ -148,7 +148,7 @@
           <img src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
         </td>
          <td align="center" style="border: none;">
-          <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg"/><br>Azure DevOps
+          <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg" width="70" height="70" /><br>Azure DevOps
         </td>
         <td align="center" style="border: none;">
           <img src="https://assets.testmuai.com/resources/images/video/lambdatest_big.png" width="70" height="70" /><br>Lambda Test
