@@ -23,10 +23,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/f725bdd6-3b8c-4f3e-ab7d-8f0d74dd2147" controls width="600"></video>
-</p>
-
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 <p align="left">
   <img 
@@ -40,6 +36,10 @@
 - 🌱 CurrenTly LeaRning **API Testing**<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="30">
 - 😉 FuN FacT **- Thanks 4R Checking Me Out, Even if You Didn't Mean To :)**
 <br>
+
+<p align="right">
+  <video src="https://github.com/user-attachments/assets/f725bdd6-3b8c-4f3e-ab7d-8f0d74dd2147" controls width="400" height="225"></video>
+</p>
 
 <h3 align="left"> ♥️ &emsp;Connect With Me&emsp;:</h3>
 
