@@ -151,7 +151,7 @@
           <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg"/><br>Azure
         </td>
         <td align="center" style="border: none;">
-          <img src="https://assets.testmuai.com/resources/images/video/lambdatest_big.png"/><br>Azure
+          <img src="https://assets.testmuai.com/resources/images/video/lambdatest_big.png" width="50" height="50" /><br>Azure
         </td>
       </tr>
     </tbody>
