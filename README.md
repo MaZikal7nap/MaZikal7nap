@@ -150,6 +150,9 @@
          <td align="center" style="border: none;">
           <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg"/><br>Azure
         </td>
+        <td align="center" style="border: none;">
+          <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg"/><br>Azure
+        </td>
       </tr>
     </tbody>
   </table>
