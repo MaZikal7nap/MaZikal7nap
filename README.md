@@ -23,7 +23,7 @@
   </picture>
 </p>
 
-<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<img align="right" width="400" alt="coding" src="https://raw.githubusercontent.com/MaZikal7nap/MaZikal7nap/main/Night.gif">
 <p align="left">
   <img 
     src="https://komarev.com/ghpvc/?username=MaZikal7nap&label=Profile%20views&color=0e75b6&style=flat" 
