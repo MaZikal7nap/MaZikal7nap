@@ -151,7 +151,7 @@
           <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg" width="50" height="50"/><br>Azure DevOps
         </td>
         <td align="center" style="border: none; padding: 16px;">
-          <img src="https://assets.testmuai.com/resources/images/video/lambdatest_big.png" width="70" height="70"/><br>Lambda Test
+          <img src="https://assets.testmuai.com/resources/images/video/lambdatest_big.png" width="50" height="50"/><br>Lambda Test
         </td>
       </tr>
     </tbody>
