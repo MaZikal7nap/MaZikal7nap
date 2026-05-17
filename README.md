@@ -157,7 +157,7 @@
     </tbody>
   </table>
 </div>
-
+<br>
 <h3> 🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3> <br>
   <div>
     <p>
