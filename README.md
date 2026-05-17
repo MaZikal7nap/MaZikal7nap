@@ -155,7 +155,7 @@
 <h3> 🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3> <br>
   <div>
     <p>
-      <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=MaZikal7nap&&theme=radical" alt="Github Streak">
+      <img src="https://github-readme-stats.vercel.app/api?username=MaZikal7nap&show_icons=true&theme=radical&count_private=true" />
       <img src="https://github-readme-stats.vercel.app/api?username=MaZikal7nap&show_icons=true&theme=radical" alt="Github Stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaZikal7nap&theme=radical" alt="Top Languages">
   </div>
