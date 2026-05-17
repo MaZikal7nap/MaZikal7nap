@@ -155,9 +155,9 @@
 <h3> 🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3> <br>
   <div>
     <p>
-      <img src="https://streak-stats.demolab.com?user=MaZikal7nap&theme=algolia&hide_border=true" alt="Github Streak"/>
-     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaZikal7nap&show_icons=true&theme=algolia&hide_border=true" alt="Github Stats"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaZikal7nap&layout=compact&theme=algolia&hide_border=true" alt="Top Languages"/>
+      <img src="https://streak-stats.demolab.com?user=MaZikal7nap&theme=great-gatsby&hide_border=true" alt="Github Streak"/>
+     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaZikal7nap&show_icons=true&theme=great-gatsby&hide_border=true" alt="Github Stats"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaZikal7nap&layout=compact&theme=great-gatsby&hide_border=true" alt="Top Languages"/>
   </div>
   
 ### ♦️&emsp;AcTiViTy GRAPH --->
