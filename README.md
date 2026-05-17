@@ -23,6 +23,7 @@
   </picture>
 </p>
 
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 <p align="left">
   <img 
     src="https://komarev.com/ghpvc/?username=MaZikal7nap&label=Profile%20views&color=0e75b6&style=flat" 
@@ -40,38 +41,27 @@
 
 <table>
   <tr>
-    <!-- Social Links -->
-    <td>
-      <table>
-        <tr>
-          <td align="center">
-            <a href="mailto:" target="_blank">
-              <img src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" width="60" alt="Gmail">
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://www.linkedin.com/in/nitin-bisht-qa" target="_blank">
-              <img src="https://img.icons8.com/?size=100&id=TOYavqttjELT&format=png&color=000000" width="60" alt="LinkedIn">
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <a href="https://www.youtube.com/@Magic_z7" target="_blank">
-              <img src="https://img.icons8.com/?size=100&id=0PaFy1V8I5DO&format=png&color=000000" width="60" alt="YouTube">
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://t.me/MaGikaL7Nap" target="_blank">
-              <img src="https://img.icons8.com/?size=100&id=83f77KNrbPyR&format=png&color=000000" width="60" alt="Telegram">
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td align="center">
+      <a href="mailto:" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="Gmail">
+      </a>
     </td>
-    <!-- GIF on the right -->
-    <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/MaZikal7nap/MaZikal7nap/main/Night.gif" width="280" height="160" alt="Night GIF"/>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/nitin-bisht-qa" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=TOYavqttjELT&format=png&color=000000" alt="LinkedIn">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/@Magic_z7" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=0PaFy1V8I5DO&format=png&color=000000" alt="YouTube">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/MaGikaL7Nap" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=83f77KNrbPyR&format=png&color=000000" alt="Telegram">
+      </a>
     </td>
   </tr>
 </table>
@@ -169,7 +159,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=MaZikal7nap&show_icons=true&theme=radical" alt="Github Stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaZikal7nap&theme=radical" alt="Top Languages">
   </div>
-
+  
 ### ♦️&emsp;AcTiViTy GRAPH --->
 &emsp;
 [![MaZiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaZikal7nap&bg_color=1d1b1b&color=67f4fe&line=04ff00&point=df03fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)&emsp;
+
+
