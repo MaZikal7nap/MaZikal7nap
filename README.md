@@ -151,7 +151,7 @@
           <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg"/><br>Azure
         </td>
         <td align="center" style="border: none;">
-          <img src="https://media.licdn.com/dms/image/v2/D4D22AQGsCPqAiiFNJg/feedshare-shrink_1280/feedshare-shrink_1280/0/1682516735815?e=1780531200&v=beta&t=aC9X0KM0OcGrXcySGSrZP0cuwk1_Z3X9etRaNiMsGN0"/><br>Azure
+          <img src="https://assets.testmuai.com/resources/images/video/lambdatest_big.png"/><br>Azure
         </td>
       </tr>
     </tbody>
