@@ -43,27 +43,38 @@
 
 <table>
   <tr>
-    <td align="center">
-      <a href="mailto:" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="Gmail">
-      </a>
+    <!-- Social Links -->
+    <td>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="mailto:" target="_blank">
+              <img src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" width="60" alt="Gmail">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.linkedin.com/in/nitin-bisht-qa" target="_blank">
+              <img src="https://img.icons8.com/?size=100&id=TOYavqttjELT&format=png&color=000000" width="60" alt="LinkedIn">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://www.youtube.com/@Magic_z7" target="_blank">
+              <img src="https://img.icons8.com/?size=100&id=0PaFy1V8I5DO&format=png&color=000000" width="60" alt="YouTube">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://t.me/MaGikaL7Nap" target="_blank">
+              <img src="https://img.icons8.com/?size=100&id=83f77KNrbPyR&format=png&color=000000" width="60" alt="Telegram">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/nitin-bisht-qa" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=TOYavqttjELT&format=png&color=000000" alt="LinkedIn">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/@Magic_z7" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=0PaFy1V8I5DO&format=png&color=000000" alt="YouTube">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://t.me/MaGikaL7Nap" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=83f77KNrbPyR&format=png&color=000000" alt="Telegram">
-      </a>
+    <!-- Video on the right -->
+    <td align="center" valign="middle">
+      <video src="https://github.com/user-attachments/assets/f725bdd6-3b8c-4f3e-ab7d-8f0d74dd2147" controls width="280" height="160"></video>
     </td>
   </tr>
 </table>
