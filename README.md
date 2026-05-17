@@ -142,16 +142,16 @@
     <tbody>
       <tr>
         <td align="center" style="border: none; padding: 16px;">
-          <img src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" width="50" height="50" alt="Visual Studio Code"/><br>Visual Studio Code
+          <img src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" width="50" height="50" alt="Visual Studio Code"/><br>VS CODE
         </td>
         <td align="center" style="border: none; padding: 16px;">
-          <img src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" width="50" height="50" alt="ChaTGPT"/><br>ChatGPT
+          <img src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" width="50" height="50" alt="ChaTGPT"/><br>CHATGPT
         </td>
         <td align="center" style="border: none; padding: 16px;">
-          <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg" width="50" height="50"/><br>Azure DevOps
+          <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg" width="50" height="50"/><br>AZURE DEVOPS
         </td>
         <td align="center" style="border: none; padding: 16px;">
-          <img src="https://assets.testmuai.com/resources/images/video/lambdatest_big.png" width="50" height="50"/><br>Lambda Test
+          <img src="https://assets.testmuai.com/resources/images/video/lambdatest_big.png" width="50" height="50"/><br>LAMBDA TEST
         </td>
       </tr>
     </tbody>
