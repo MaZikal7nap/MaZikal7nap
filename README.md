@@ -136,7 +136,7 @@
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
       <tr>
-        <th colspan="2" align="center" style="color: white;">Tools</th>
+        <th colspan="5" align="center" style="color: white;">Tools</th>
       </tr>
     </thead>
     <tbody>
@@ -144,8 +144,28 @@
         <td align="center" style="border: none;">
           <img src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" width="50" height="50" alt="Visual Studio Code"/><br>Visual Studio Code
         </td>
+
         <td align="center" style="border: none;">
           <img src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+        </td>
+
+        <td align="center" style="border: none;">
+          <img src="" width="50" height="50" alt="Azure DevOps"/><br>Azure DevOps
+        </td>
+      </tr>
+
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="" width="50" height="50" alt="LambdaTest"/><br>LambdaTest
+        </td>
+
+        <td align="center" style="border: none;">
+          <img src="" width="50" height="50" alt="Postman"/><br>Postman
+        </td>
+
+        <td align="center" style="border: none;">
+          <!-- Empty slot for future tool -->
+          <img src="" width="50" height="50" alt="Coming Soon"/><br>Coming Soon
         </td>
       </tr>
     </tbody>
