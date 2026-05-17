@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MAG❗K&fontSize=50&animation=fadeIn&fontAlignY=35&descAlignY=45" alt="Magic">
 </p>
@@ -165,4 +164,3 @@
 ### ♦️&emsp;AcTiViTy GRAPH --->
 
 [![MaZiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaZikal7nap&bg_color=1d1b1b&color=67f4fe&line=04ff00&point=df03fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-```
