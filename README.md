@@ -145,7 +145,7 @@
           <img src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" width="50" height="50" alt="Visual Studio Code"/><br>Visual Studio Code
         </td>
         <td align="center" style="border: none; padding: 16px;">
-          <img src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+          <img src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" width="50" height="50" alt="ChaTGPT"/><br>ChatGPT
         </td>
         <td align="center" style="border: none; padding: 16px;">
           <img src="https://az-icons.com/export/icons/6ae48fcbb84214de68fcba2540913934.svg" width="50" height="50"/><br>Azure DevOps
@@ -158,13 +158,6 @@
   </table>
 </div>
 <br>
-<!-- <h3> 🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3> <br>
-  <div>
-    <p>
-      <img src="https://streak-stats.demolab.com?user=MaZikal7nap&theme=great-gatsby&hide_border=true" alt="Github Streak"/>
-     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaZikal7nap&show_icons=true&theme=great-gatsby&hide_border=true" alt="Github Stats"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaZikal7nap&layout=compact&theme=great-gatsby&hide_border=true" alt="Top Languages"/>
-  </div> -->
   <h3> 🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3>
 <br>
 <div align="center">
