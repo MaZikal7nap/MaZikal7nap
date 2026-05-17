@@ -156,8 +156,8 @@
   <div>
     <p>
       <img src="https://streak-stats.demolab.com?user=MaZikal7nap&theme=tokyonight&hide_border=true" alt="Github Streak"/>
-     <img src="https://github-readme-stats.vercel.app/api?user=MaZikal7nap&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaZikal7nap&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaZikal7nap&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaZikal7nap&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </div>
   
 ### ♦️&emsp;AcTiViTy GRAPH --->
