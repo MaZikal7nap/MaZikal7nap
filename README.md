@@ -158,19 +158,31 @@
   </table>
 </div>
 <br>
-  <h3> 🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3>
+  <h3>🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3>
+
 <br>
+
 <div align="center">
-  <!-- Top Languages centered on its own row -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaZikal7nap&layout=compact&theme=great-gatsby&hide_border=true" alt="Top Languages"/>
-  <br><br>
-  <!-- Stats and Streak below, side by side -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaZikal7nap&show_icons=true&theme=great-gatsby&hide_border=true" alt="Github Stats"/>
-  <img src="https://streak-stats.demolab.com?user=MaZikal7nap&theme=great-gatsby&hide_border=true" alt="Github Streak"/>
+
+<!-- Top Languages centered on its own row -->
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaZikal7nap&layout=compact&theme=great-gatsby&hide_border=true" alt="Top Languages"/>
+
+<br><br>
+
+<!-- Stats and Streak below, side by side -->
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaZikal7nap&show_icons=true&theme=great-gatsby&hide_border=true" alt="Github Stats"/>
+
+<img src="https://streak-stats.demolab.com?user=MaZikal7nap&theme=great-gatsby&hide_border=true" alt="Github Streak"/>
+
 </div>
-  
-### ♦️&emsp;AcTiViTy GRAPH --->
-&emsp;
-[![MaZiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaZikal7nap&bg_color=1d1b1b&color=67f4fe&line=04ff00&point=df03fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)&emsp;
+
+<h3>♦️&emsp;AcTiViTy GRAPH ---></h3>
+
+ 
+
+[![MaZiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaZikal7nap\&bg_color=1d1b1b\&color=67f4fe\&line=04ff00\&point=df03fc\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
