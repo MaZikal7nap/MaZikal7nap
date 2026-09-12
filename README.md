@@ -65,8 +65,8 @@
     </td>
   </tr>
 </table>
-
-<br><h3 align="left"> ⚡&emsp;Languages And Tools&emsp;:</h3>&emsp;
+<br><br>
+<br><h3 align="center"> ⚡&emsp;Languages And Tools&emsp;:</h3>&emsp;
 
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -158,15 +158,14 @@
   </table>
 </div>
 <br>
- <h3>🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3>
+<h3 align="center">🌟&emsp;My Stats ( CuZ whY NoT )&emsp;:</h3>
 
 <br>
-
 <div align="center">
 
-<br>
-
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
 <!-- Top Languages -->
 <img
@@ -174,7 +173,9 @@
   alt="Top Languages"
 />
 
-<br><br>
+</td>
+
+<td width="50%" align="center">
 
 <!-- GitHub Stats -->
 <img
@@ -182,7 +183,13 @@
   alt="Github Stats"
 />
 
-<br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<br>
 
 <!-- GitHub Streak -->
 <img
@@ -190,10 +197,12 @@
   alt="GitHub Streak"
 />
 
+</td>
+</tr>
+</table>
+
 </div>
-
 <br>
-
 <h3>♦️&emsp;AcTiViTy GRAPH ---></h3>
 
 <br>
