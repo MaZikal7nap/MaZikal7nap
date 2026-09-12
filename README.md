@@ -203,7 +203,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=MaZikal7nap&bg_color=1d1b1b&color=67f4fe&line=04ff00&point=df03fc&area=true&hide_border=true"
+src="https://github-readme-activity-graph-five-tau.vercel.app/graph?username=MaZikal7nap&bg_color=1d1b1b&color=67f4fe&line=04ff00&point=df03fc&area=true&hide_border=true"
 alt="MaZiK's GitHub Activity Graph"
 />
 
